@@ -1,0 +1,17 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #050505;
+}
+h2 {
+  text-align: center;
+  color: aliceblue;
+}
